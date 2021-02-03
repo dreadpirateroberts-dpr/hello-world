@@ -1,2 +1,2 @@
 # hello-world
-Music Resources and more
+Music Resources and More
